@@ -1,1 +1,3 @@
- n3.show();
+
+    // Student st;
+    // st.set_number(10);
